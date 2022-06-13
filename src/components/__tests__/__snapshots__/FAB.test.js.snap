@@ -2,6 +2,7 @@
 
 exports[`renders custom color for the icon and label of the FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -15,6 +16,7 @@ exports[`renders custom color for the icon and label of the FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -28,6 +30,7 @@ exports[`renders custom color for the icon and label of the FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -46,7 +49,7 @@ exports[`renders custom color for the icon and label of the FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -101,6 +104,7 @@ exports[`renders custom color for the icon and label of the FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
@@ -147,6 +151,7 @@ exports[`renders custom color for the icon and label of the FAB 1`] = `
 
 exports[`renders disabled FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -160,6 +165,7 @@ exports[`renders disabled FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -173,6 +179,7 @@ exports[`renders disabled FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -246,6 +253,7 @@ exports[`renders disabled FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
@@ -292,6 +300,7 @@ exports[`renders disabled FAB 1`] = `
 
 exports[`renders extended FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -305,6 +314,7 @@ exports[`renders extended FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -318,6 +328,7 @@ exports[`renders extended FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -337,7 +348,7 @@ exports[`renders extended FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -392,6 +403,7 @@ exports[`renders extended FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
@@ -474,6 +486,7 @@ exports[`renders extended FAB 1`] = `
 
 exports[`renders loading FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -487,6 +500,7 @@ exports[`renders loading FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -500,6 +514,7 @@ exports[`renders loading FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -518,7 +533,7 @@ exports[`renders loading FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -587,6 +602,7 @@ exports[`renders loading FAB 1`] = `
               }
             >
               <View
+                collapsable={false}
                 style={
                   Object {
                     "alignItems": "center",
@@ -600,6 +616,7 @@ exports[`renders loading FAB 1`] = `
                 }
               >
                 <View
+                  collapsable={false}
                   style={
                     Object {
                       "height": 18,
@@ -623,6 +640,7 @@ exports[`renders loading FAB 1`] = `
                     }
                   >
                     <View
+                      collapsable={false}
                       style={
                         Object {
                           "height": 18,
@@ -649,6 +667,7 @@ exports[`renders loading FAB 1`] = `
                         }
                       >
                         <View
+                          collapsable={false}
                           style={
                             Object {
                               "borderColor": "rgba(33, 0, 93, 1)",
@@ -665,6 +684,7 @@ exports[`renders loading FAB 1`] = `
                 </View>
               </View>
               <View
+                collapsable={false}
                 style={
                   Object {
                     "alignItems": "center",
@@ -678,6 +698,7 @@ exports[`renders loading FAB 1`] = `
                 }
               >
                 <View
+                  collapsable={false}
                   style={
                     Object {
                       "height": 18,
@@ -702,6 +723,7 @@ exports[`renders loading FAB 1`] = `
                     }
                   >
                     <View
+                      collapsable={false}
                       style={
                         Object {
                           "height": 18,
@@ -728,6 +750,7 @@ exports[`renders loading FAB 1`] = `
                         }
                       >
                         <View
+                          collapsable={false}
                           style={
                             Object {
                               "borderColor": "rgba(33, 0, 93, 1)",
@@ -754,6 +777,7 @@ exports[`renders loading FAB 1`] = `
 
 exports[`renders normal FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -767,6 +791,7 @@ exports[`renders normal FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -780,6 +805,7 @@ exports[`renders normal FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -798,7 +824,7 @@ exports[`renders normal FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -853,6 +879,7 @@ exports[`renders normal FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
@@ -899,6 +926,7 @@ exports[`renders normal FAB 1`] = `
 
 exports[`renders not visible FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -912,6 +940,7 @@ exports[`renders not visible FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -925,6 +954,7 @@ exports[`renders not visible FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="none"
       style={
         Object {
@@ -943,7 +973,7 @@ exports[`renders not visible FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -998,6 +1028,7 @@ exports[`renders not visible FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
@@ -1044,6 +1075,7 @@ exports[`renders not visible FAB 1`] = `
 
 exports[`renders small FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -1057,6 +1089,7 @@ exports[`renders small FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -1070,6 +1103,7 @@ exports[`renders small FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -1088,7 +1122,7 @@ exports[`renders small FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -1143,6 +1177,7 @@ exports[`renders small FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
@@ -1189,6 +1224,7 @@ exports[`renders small FAB 1`] = `
 
 exports[`renders visible FAB 1`] = `
 <View
+  collapsable={false}
   style={
     Object {
       "shadowColor": "#000",
@@ -1202,6 +1238,7 @@ exports[`renders visible FAB 1`] = `
   }
 >
   <View
+    collapsable={false}
     style={
       Object {
         "shadowColor": "#000",
@@ -1215,6 +1252,7 @@ exports[`renders visible FAB 1`] = `
     }
   >
     <View
+      collapsable={false}
       pointerEvents="auto"
       style={
         Object {
@@ -1233,7 +1271,7 @@ exports[`renders visible FAB 1`] = `
         accessibilityRole="button"
         accessibilityState={
           Object {
-            "disabled": undefined,
+            "disabled": false,
           }
         }
         accessible={true}
@@ -1288,6 +1326,7 @@ exports[`renders visible FAB 1`] = `
             }
           >
             <View
+              collapsable={false}
               style={
                 Object {
                   "bottom": 0,
